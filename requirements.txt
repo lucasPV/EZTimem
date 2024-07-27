@@ -1,0 +1,5 @@
+psutil
+GPUtil
+prettytable
+matplotlib
+numpy
